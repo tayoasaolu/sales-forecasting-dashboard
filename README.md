@@ -76,8 +76,6 @@ Example Output:
 ### YoY Trends Chart
 ![YoY Trends](powerbi/yoy_trends.png)
 
-(Replace with your actual screenshots or GIFs for better visualization.)
-
 ## Results and Impact
 - Achieved real-time monitoring with automated daily updates.
 - Simulated 95% forecast accuracy on test data splits.
