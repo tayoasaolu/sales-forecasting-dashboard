@@ -1,1 +1,4 @@
-
+pandas==2.0.3  # For data manipulation and exporting to CSV
+sqlalchemy==2.0.23  # For connecting to SQL databases like Azure DB
+pyodbc==5.0.1  # ODBC driver for SQL Server connections (required for Azure)
+schedule==1.2.1  # For scheduling daily tasks
